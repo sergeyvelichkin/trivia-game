@@ -13,7 +13,7 @@ div {
 p {
     padding: 10px;
 }
-p:hover{
+.answer:hover{
     background-color: aquamarine;
 }
 
